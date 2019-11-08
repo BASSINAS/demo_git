@@ -1,1 +1,4 @@
 merci les zozo ca va 
+
+
+bin c'est bon je connais comment ajouter des fichiers en ligne avec git.
